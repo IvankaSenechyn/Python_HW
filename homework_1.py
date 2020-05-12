@@ -14,6 +14,6 @@ def text_dictionary(filename):
     text.close()
     f.close()
 
-text_dictionary('C:\Users\Ivanka\PycharmProjects\homework\homework_1')
+#text_dictionary('C:\Users\Ivanka\PycharmProjects\homework\homework_1')
 
 
